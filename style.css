@@ -1,0 +1,50 @@
+body{
+    background-color: gray;
+    height: 100vh;
+}
+.container{
+    width: 60%;
+    height: 110%;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.mypicture{
+    width: 150px;
+    height: auto;
+}
+.header{
+     width: 100% ;
+     height: fit-content;
+     margin:0 auto;
+     text-align: center;
+}
+.header img{
+    width: 150px;
+    height: auto;
+    border-radius: 100px;
+}
+.content{
+
+}
+h2{
+    color: white;
+    text-align: left;
+}
+p{
+    color: white;
+    text-align: justify;
+}
+h3{
+    color: white;
+    text-align: left;
+}
+footer{
+    text-align: center;
+    margin-bottom: 5px;
+}
